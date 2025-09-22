@@ -4,9 +4,9 @@ params:
   summary:
     position: hero
   search:
-    active: true
+    active: false
   logo:
-    header: ''
+    header: '/assets/images/logo.svg'
     footer: ''
   home:
     head:

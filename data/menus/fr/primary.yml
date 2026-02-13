@@ -2,8 +2,10 @@
 title: Menu principal
 items:
 - title: Tarifs
+  slug: tarifs
   target: "#tarifs"
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 
